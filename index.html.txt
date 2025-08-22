@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Wooden Flags by [Your Name]</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Hero Section -->
+  <header class="hero">
+    <h1>Handmade Wooden Flags</h1>
+    <p>Crafted with passion by a 17-year-old woodworker 🇺🇸</p>
+    <a href="#contact" class="btn">Order Now</a>
+  </header>
+
+  <!-- Products Section -->
+  <section class="products">
+    <h2>Our Flags</h2>
+    <div class="grid">
+      <div class="card">
+        <img src="flag1.jpg" alt="American Wooden Flag">
+        <h3>Classic American Flag</h3>
+        <p>Burned wood finish, clear-coated for durability.</p>
+      </div>
+      <div class="card">
+        <img src="flag2.jpg" alt="Custom Wooden Flag">
+        <h3>Custom Designs</h3>
+        <p>Personalized flags with military, police, or custom logos.</p>
+      </div>
+      <div class="card">
+        <img src="flag3.jpg" alt="Rustic Wooden Flag">
+        <h3>Rustic Finish</h3>
+        <p>A rustic, weathered look that makes each flag unique.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- About Section -->
+  <section class="about">
+    <h2>About Me</h2>
+    <p>Hi, I'm [Your Name], a 17-year-old who loves woodworking. 
+    I started making wooden flags as a passion project, and now I’m sharing them with the world. 
+    Every flag is handmade with care, detail, and pride.</p>
+  </section>
+
+  <!-- Contact Section -->
+  <section id="contact" class="contact">
+    <h2>Contact Me</h2>
+    <p>Want to order a custom wooden flag? Reach out!</p>
+    <a href="mailto:your-email@example.com" class="btn">Email Me</a>
+  </section>
+
+  <footer>
+    <p>© 2025 Wooden Flags by [Your Name] | All Rights Reserved</p>
+  </footer>
+</body>
+</html>

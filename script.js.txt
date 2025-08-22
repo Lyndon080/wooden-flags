@@ -1,0 +1,4 @@
+// Simple welcome message
+window.onload = () => {
+  console.log("Welcome to Wooden Flags by [Your Name]!");
+};
